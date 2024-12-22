@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Naveenreddy630
+- 👋 Hi, I’m Sama Naveen Reddy
 - 👀 I’m interested in coding.
 - 🌱 I’m currently a student.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me mailto: samanaveenreddy000@gmail.com
+- 😄 Pronouns: 
+- ⚡ Fun fact: "Focus on your Code"
 
 <!---
 Naveenreddy630/Naveenreddy630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
