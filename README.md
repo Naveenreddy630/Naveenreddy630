@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sama Naveen Reddy
 - 👀 I’m interested in coding.
 - 🌱 I’m currently a student.
-- 📫 How to reach me mailto: samanaveenreddy000@gmail.com
+- 📫 How to reach me - mailto: samanaveenreddy000@gmail.com
 - 😄 Pronouns: 
 - ⚡ Fun fact: "Focus on your Code"
 
